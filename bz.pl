@@ -1,3 +1,5 @@
+%База знаний по игре "Эволюция"
+
 %Факты о том, какие виды животных бывают по типу питания
 kind_of_nutricion(parasite).
 kind_of_nutricion(predator).
